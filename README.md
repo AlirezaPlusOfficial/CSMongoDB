@@ -9,13 +9,13 @@
 # CSMongoDB
 Simple MongoDB Operations With CSharp ( C# )
 # IMPORTANT
-🔰 This project is very Simple , Actually I dont work on it anymore.
+🔰 This project is very simple. Actually, I don't work on it anymore.
 <br>
-🔰 But you feel free to use it , not too bad for educational purposes :)
+🔰 But feel free to use it — it's not too bad for educational purposes. :)
 # Changelog
 v1.0.0.0 : <br>
 ✅ Official Release (Basic Version)!
-✅ You can do some MongoDB Operations through CSharp
+✅ Perform MongoDB operations using C# with ease.
 # Known Issue's
 ⚠ --
 # ToDo List
@@ -23,4 +23,4 @@ v1.0.0.0 : <br>
 ## Screenshots
 ![CSMongoDB](Screenshots/SS1.png)
 <br>
-NOTE : ScreenShot Is Related To Version ( 1.0.0.0 )
+Note: Screenshot is related to version (1.0.0.0)
